@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Davidsgs">
+  <a target="_blank" href="https://github.com/Davidsgs">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Davidsgs" />
   </a>
   <a href="https://www.linkedin.com/in/david-garcia-28968518a/">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center" href="https://github.com/Davidsgs">
-  <a href="https://github.com/Davidsgs">
+  <a target="_blank" href="https://github.com/Davidsgs">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Davidsgs?label=Follow%20Me&style=social" />
   </a>
 </p>
