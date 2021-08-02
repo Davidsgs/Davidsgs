@@ -4,7 +4,9 @@
 </p>
 
 <p align="center">
-  <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Davidsgs" />
+  <a href="https://github.com/Davidsgs">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Davidsgs" />
+  </a>
   <a href="https://www.linkedin.com/in/david-garcia-28968518a/">
     <img align="center" alt="visitors" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
