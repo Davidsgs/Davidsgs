@@ -23,7 +23,7 @@
 I am a computer science student, I like challenges and I consider myself part of the new generation of young professionals. I really like the BACK-END development and for now I am studying REACT to be a Full-Stack Dev in the future.
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Davidsgs&show_icons=true&count_private=true&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Davidsgs&show_icons=true&count_private=true&theme=dark"/>
 </p>
 
 # Skills:
