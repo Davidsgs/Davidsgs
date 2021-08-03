@@ -1,8 +1,9 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) ](https://github.com/Davidsgs)
-<div>
+<div align="center">
+  <a href="https://github.com/Davidsgs">
+    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG"/>
+  </a>
   <h1 align="center"><b>Hello!, I'm David Garcia👋</b></h1>
 </div>
-
 <div align="center">
   <a href="https://github.com/Davidsgs">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Davidsgs" />
@@ -18,17 +19,15 @@
   </a>
 </div>
 
-# About Me
-
-I am a computer science student, I like challenges and I consider myself part of the new generation of young professionals. I really like the BACK-END development and for now I am studying REACT to be a Full-Stack Dev.
-
+<h1 align="center">About Me</h1>
+<p aling="center">I am a computer science student, I like challenges and I consider myself part of the new generation of young professionals. I really like the BACK-END development and for now I am studying REACT to be a Full-Stack Dev.</p>
 <div align="center">
   <a href="https://github.com/Davidsgs">
     <img src="https://github-readme-stats.vercel.app/api?username=Davidsgs&show_icons=true&count_private=true&theme=dark"/>
   </a>
 </div>
 
-# Skills
+<h1 align="center">Skills</h1>
 
 <div align="center">
   <a href="https://spring.io/projects/spring-boot">
