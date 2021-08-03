@@ -1,4 +1,4 @@
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) ](https://github.com/Davidsgs)
 <div>
   <h1 align="center"><b>Hello!, I'm David Garcia👋</b></h1>
 </div>
@@ -13,14 +13,14 @@
 </div>
 
 <div align="center" href="https://github.com/Davidsgs">
-  <a target="_blank" href="https://github.com/Davidsgs?tab=following">
+  <a target="_blank" href="https://github.com/Davidsgs?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Davidsgs?label=Follow%20Me&style=social" />
   </a>
 </div>
 
 # About Me
 
-I am a computer science student, I like challenges and I consider myself part of the new generation of young professionals. I really like the BACK-END development and for now I am studying REACT to be a Full-Stack Dev in the future.
+I am a computer science student, I like challenges and I consider myself part of the new generation of young professionals. I really like the BACK-END development and for now I am studying REACT to be a Full-Stack Dev.
 
 <div align="center">
   <a href="https://github.com/Davidsgs">
