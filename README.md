@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1a2e,100:16213e&amp;height=200&amp;section=header&amp;text=David%20Garcia&amp;fontSize=60&amp;fontColor=58a6ff&amp;animation=fadeIn&amp;fontAlignY=38&amp;" width="100%"/>
 
 <a href="https://github.com/Davidsgs">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+engineer+from+Buenos+Aires;Java+%2B+Spring+Boot%2C+mostly;Using+AI+before+it+was+cool;I+care+about+code+that+actually+ships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+engineer+from+Buenos+Aires;Java+%2B+Spring+Boot%2C+mostly;Using+AI+before+it+was+cool;I+care+about+code+that+actually+ships" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,11 +18,11 @@
 
 ## Who I am
 
-Java developer from Ituzaingó, Buenos Aires. I've been writing backend code professionally since 2021, mostly Spring Boot microservices for banking clients. I pick up frontend when I have to, but I think best on the server side.
+Software Engineer Buenos Aires. I've been writing code professionally since 2021, mostly Spring Boot microservices for banking clients. I pick up frontend when I have to, but I think best on the server side.
 
 I started using LLMs in my workflow early, before it became the expected thing to do. My take: they're useful for the repetitive parts, and you still have to understand what you're shipping. I've integrated OpenAI and Gemini APIs into real production systems, not demos.
 
-Currently finishing a Computer Science degree at UNAHUR while working full time at IT Patagonia.
+Currently finishing a Computer Science degree at UNAHUR while working full time.
 
 ---
 
